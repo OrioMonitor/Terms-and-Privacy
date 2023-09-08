@@ -25,14 +25,14 @@ Information Sharing
 Analytics: We may use anonymized and aggregated data for analytics purposes to understand usage patterns, trends, and preferences.
 Service Providers: We may engage third-party service providers to assist with app development, maintenance, and analytics. These providers are contractually obligated to protect your information.
 Legal Compliance: We may disclose your information to comply with applicable laws, regulations, legal processes, or governmental requests.
-Your Choices
 
- Device Information: You can choose to delete devices from the App's settings. You can also disable the auto-sync feature to prevent device information from being     saved toRemote Servers.
- Account Deletion: You can request the deletion of your account and associated data by contacting us at oriomonitor@gmail.com.
+#### Your Choices
+ ##### Device Information: You can choose to delete devices from the App's settings. You can also disable the auto-sync feature to prevent device information from being saved to Remote Servers.
+##### Account Deletion: You can request the deletion of your account and associated data by contacting us at OrioMonitor@gmail.com.
 
 #### Contact Us
 
-If you have any questions, concerns, or requests regarding your personal information, this Privacy Policy, or the App's practices, please contact us at oriomonitor@gmail.com.
+If you have any questions, concerns, or requests regarding your personal information, this Privacy Policy, or the App's practices, please contact us at OrioMonitor@gmail.com.
 
 ##### We reserve the right to update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
