@@ -2,7 +2,7 @@
 
 Last updated: 2023-9-7
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you download, install, and use the OrioMonitor mobile application ("App").
+This Privacy Policy describes how your personal information is collected, used, and shared when you download, install, and use the OrioMonitor mobile application ("Orio Monitor").
 
 #### Information We Collect
 
